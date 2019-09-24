@@ -1,7 +1,7 @@
 ---
-name: Blog
+name: 私人博客，请不要新建 Issue1
 about: Blog
-title: 私人博客，请不要新建 Issue
+title: 私人博客，请不要新建 Issue1
 labels: ''
 assignees: ''
 
